@@ -11,7 +11,7 @@ find_package(catkin REQUIRED COMPONENTS
   cv_bridge
   image_transport
   tf
-  uvc_camera
+  libuvc_camera
   dynamic_reconfigure
 )
 

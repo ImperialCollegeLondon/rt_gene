@@ -39,7 +39,7 @@
   <depend>tf</depend>
   <depend>tf2_ros</depend>
   <!--depend>camera_info_manager_py</depend-->
-  <depend>uvc_camera</depend>
+  <depend>libuvc_camera</depend>
   <depend>dynamic_reconfigure</depend>
 
   <depend>python3-opencv</depend>
