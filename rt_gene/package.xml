@@ -49,7 +49,7 @@
   <depend>python3-tensorflow-gpu-pip</depend>
   <depend>python3-tqdm</depend>
   <depend>python3-imaging</depend>
-  <depend>python3-pytorch-pip</depend>
+  <!-- <depend>python3-pytorch-pip</depend> -->
   <depend>python3-matplotlib</depend>
 
   <exec_depend>rviz</exec_depend>
