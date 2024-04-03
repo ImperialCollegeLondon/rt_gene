@@ -1,0 +1,6 @@
+<launch>
+    <include file="$(find rt_gene)/launch/estimate_gaze.launch" />
+    <include file="$(find rt_gene)/launch/estimate_gaze_right_cam.launch" />
+    <include file="$(find rt_gene)/launch/estimate_blink.launch" />
+    <include file="$(find rt_gene)/launch/estimate_blink_right_cam.launch" />
+</launch>
